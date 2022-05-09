@@ -1,4 +1,4 @@
-#logo {   height: 60px;
+#logo { height: 60px;
     background-color: red;
     background-image: background-image: url('img/pattern.png'); 
     background-size: cover;
@@ -19,8 +19,23 @@ ul {padding-left:10px;}
 th { color: white;
     background-color: blue;}
 
+table {padding:0;}
+
 #td1 {background-color: blue;
 }
        
 #td2 {background-color: blue;
 }
+
+h4 {color: lightgray;
+    margin-bottom: 15px;}
+
+.footer1 { background-image: url('img/monitor.jpg');
+           height: 210px;
+           
+           width: 300px;
+        }
+
+
+
+
