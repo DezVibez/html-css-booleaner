@@ -1,7 +1,6 @@
 #logo { height: 60px;
-    background-color: red;
-    background-image: background-image: url('img/pattern.png'); 
-    background-size: cover;
+    background-image: url('img/pattern.png');
+    background-position: center; 
 }
  
 h1 { margin-bottom: 0px;}
@@ -20,17 +19,17 @@ th { color: white;
     background-color: blue;}
 
 table {padding:0;
-    border-spacing: 0px;}
+       border-spacing: 0px;}
 
 td {padding: 5px;
    padding-right:80px;}
 
 
 
-#td1 {background-color: blue;
+#td1 {background-color: rgb(2, 166, 248);
 }
        
-#td2 {background-color: blue;
+#td2 {background-color: rgb(2, 166, 248);
 }
 
 h4 {color: lightgray;
