@@ -19,7 +19,8 @@ ul {padding-left:10px;}
 th { color: white;
     background-color: blue;}
 
-table {padding:0;}
+table {padding:0;
+    border-spacing: 0px;}
 
 td {padding: 5px;
    padding-right:80px;}
