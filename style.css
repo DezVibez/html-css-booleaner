@@ -1,13 +1,26 @@
 #logo { height: 60px;
-    background-image: url('img/pattern.png');
-    background-position: center; 
+        background-image: url('img/pattern.png');
+        background-position: bottom; 
+        background-color: rgb(2, 166, 248);
 }
  
 h1 { margin-bottom: 0px;}
 
-#didascalia {padding-top: 0;
+#didascalia1 {
              margin: 0;
+             padding: 0;
 }
+
+#didascalia2 {margin:0;
+              padding: 0;}
+
+
+#logoboolean {background-image: url(img/logo.svg);
+              height:100%;
+              width:120px;
+              background-repeat: no-repeat;
+              background-position: bottom;
+            }
 
 #booleaners { color: lightskyblue;}
 
@@ -32,7 +45,7 @@ td {padding: 5px;
 #td2 {background-color: rgb(2, 166, 248);
 }
 
-h4 {color: lightgray;
+h4 {color: rgb(146, 142, 140);
     margin-bottom: 15px;}
 
 .footer1 { background-image: url('img/monitor.jpg');
