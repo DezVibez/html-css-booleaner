@@ -1,5 +1,19 @@
-nav {
-    background-image: img/pattern.png;
-    height: 50px;
-    }
+#logo {   height: 60px;
+    background-color: red;
+    background-image: background-image: url('img/pattern.png'); 
+    background-size: cover;
+}
+ 
+h1 { margin-bottom: 0px;}
 
+#didascalia {padding-top: 0;
+             margin: 0;
+}
+
+#booleaners { color: lightskyblue;}
+
+.giallo { background-color: yellow;}
+
+ul {padding-left:10px;}
+
+        
